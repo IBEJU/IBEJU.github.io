@@ -1,0 +1,262 @@
+.aaa{
+    margin: 20px;
+}
+.container{
+    height: 220%;
+    width: 200%;
+    border-style: s0lid;
+    border-color: black;
+    margin: 90px;
+    background-color: blueviolet;
+}
+.container1{
+    padding: 20px;
+}
+div.aa{
+    background-color: rgb(41, 3, 18);
+    height: 50px;
+    width: 1500px;
+    /* i am not done here, i will still list the social media apps */
+    color: white;
+}
+.ab{
+    height: 55px;
+    width: 90%;
+    background-color:#f8f8f8;
+}
+.ac{
+    margin-top: 27px;
+}
+.ad{
+    border-bottom-style: solid;
+    border-bottom-width: 0.05px;
+    border-bottom-color: grey;
+
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    margin-top: 0;
+}
+.navbar{
+
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    margin-top: 0;
+}
+
+.navebar-brand img{
+    height: 10px;
+    padding-left: 20px;
+    float: left;
+}
+.navebar-brand img a{
+    color: #fff;
+}
+/**
+.navbar-nav{
+    margin-left:auto;
+
+}
+**/
+h5{
+    color: #fff;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 100px;
+    float: left;
+    text-align: right;
+}
+.fa-bars{
+    color: #fff;
+}
+/*********************Bannewr section***************************/
+.Banner{
+    background-image: linear-gradient(to right, #1771ba, #171e82);
+    color: #fff!important;
+
+}
+h1 {
+    color: #171e82;
+}
+.container1{
+    background-image: #fff;
+    margin-top: 50px;
+
+}
+.col-md-4 {
+    width: auto;
+    margin-top: 50px;
+}
+.images{
+    float: left;
+    padding: 20px;
+}
+.first-h{
+    color: red;
+}
+hr {
+    border: #5f1782;
+}
+.about us{
+    background: #f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.about-title{
+    font-size: 40px;
+    font-weight: 200;
+    margin-top: 20px;
+}
+#services{
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+    
+}
+.ul{         
+    display: inline-block;
+}
+.ib-img{
+    float: right;
+}
+.container6 h1{
+    display: inline-block;
+}
+.title::after{
+    content: "";
+    background: #7b1798;
+    height: 10px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    display: block;
+    transform: translateY(0.05px);
+}
+.title text{
+    text-align: center;
+}
+.about-us{
+    margin-top: 100px 0;
+}
+/********************Testimonials Section***********/
+#Testimonials{
+    margin-top: 50px;
+}
+.Testimonials{
+    border-left: 4px solid #7b1798;
+    margin-bottom: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Testimonials img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 0 10px;
+    
+}
+.user-details{
+    display: inline-block;
+    font-size: 12px;
+}
+#social-media{
+    background: #f8f9fa;
+    padding: 100px 0;
+    margin-top: 100px;
+}
+#social-media p{
+    font-size: 36px;
+    font-weight: 60px;
+    margin-bottom: 100px;
+}
+.social-icons{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.social-icon img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 20px;
+    margin: 0 10px;
+    width: 60px;
+    transition: 0.5s;
+}
+.social-icon a:hover img{
+ transform: translateY(-20px)
+}
+/************Footer Section********************/
+#footer{
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+  margin: 0;
+}
+.container5{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: #fff;
+
+}
+
+.footer-img{
+    width: 100%;
+    float: left;
+}
+.footer-box{
+    display: inline-block;
+    padding: 20px;
+    margin: 0%;
+}
+.footer-p{
+    width: 500px;
+}
+.footer-box img{
+width: 50px;
+margin-bottom: 20px;
+}
+.footer-box .fa{
+    margin-right: 8px;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 2px;
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+
+}
+.footer-box.form-control{
+box-shadow: none !important;
+border: none;
+border-radius: 0;
+margin-top: 25px;
+max-width: 50px;
+}
+.footer-box .btn-primary{
+box-shadow: none;
+box-shadow: none !important;
+border: none;
+border-radius: 0;
+margin-top: 30px;
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+
+}
+hr{
+    background-color: #fff;
+    max-width: fit-content;
+}
+
+.copyright{
+    margin-bottom: 0;
+    text-align: center;
+    padding-bottom: 10px;
+}
